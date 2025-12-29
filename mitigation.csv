@@ -1,0 +1,79 @@
+﻿GearType,SpeciesGroup,MeasureCategory,MitigationTechnique,Description,Experimental(True/False),Status
+Trawls,Marine mammals,Gear modification,Exclusion barriers,Vertical ropes or square-mesh barriers to prevent cetacean entry into trawl mouth.,TRUE,Under research
+Trawls,Marine mammals,Gear modification,Bycatch reduction devices (BRDs),Inclined grids or escape hatches to deflect large animals like dolphins or seals.,FALSE,In use
+Trawls,Marine mammals,Deterrents – Acoustic,Acoustic deterrents,Pingers or AHDs to repel dolphins and porpoises from trawls.,TRUE,Under research
+Trawls,Marine mammals,Operational/Setting,Spatial and temporal restrictions,Restrict trawling depth (>250–300m) or time (daylight) to avoid cetacean encounters.,FALSE,In use
+Trawls,Seabirds,Deterrents – Visual,Streamer lines (Tori lines),Colored streamers over trawl warps to deter bird strikes and entanglement.,FALSE,In use
+Trawls,Seabirds,Deterrents – Visual,Laser deterrents,Laser light projected to discourage birds from approaching trawl area.,TRUE,Under development
+Trawls,Sharks and rays,Gear modification,Turtle or bycatch exclusion grids,Rigid or flexible grids allowing elasmobranchs and turtles to escape trawls.,FALSE,In use
+Trawls,Sharks and rays,Operational/Setting,Removal of tickler chains,Eliminating chains in front of trawls to reduce skate and shark catch.,FALSE,In use
+Trawls,Sea turtles,Gear modification,Turtle Excluder Devices (TEDs),Inclined grids with escape openings to allow turtles to exit trawls.,FALSE,In use
+Trawls,Sea turtles,Gear modification,Flexible TEDs (FLEXI GRID),"Foldable grids for small trawlers to reduce turtle, shark, and debris catch.",TRUE,Under development
+Trawls,Sea turtles,Operational/Setting,Tow duration and depth control,Shorter tow times and slower hauling to reduce turtle drowning risk.,FALSE,In use
+Purse seines,Marine mammals,Gear modification,Backdown manoeuvre and Medina panel,Reverse manoeuvre and small-mesh panels to let dolphins escape safely.,FALSE,In use
+Purse seines,Marine mammals,Gear modification,Net reinforcement,Strengthened nets to resist dolphin depredation in sardine fisheries.,TRUE,Under development
+Purse seines,Marine mammals,Deterrents – Acoustic,"Acoustic deterrents (pingers, DDDs)",Sound-emitting devices to reduce dolphin encirclement and depredation.,TRUE,Under research
+Purse seines,Marine mammals,Operational/Setting,Avoid encirclement,"Avoid setting nets around dolphins, whales, or whale sharks.",FALSE,In use
+Purse seines,Seabirds,Operational/Setting,Fishing time and area limits,Fish at night or outside breeding grounds to minimize seabird bycatch.,FALSE,In use
+Purse seines,Seabirds,Gear modification,Reduced floatline slack,Water spray or floatline sinking to reduce bird entrapment during hauling.,TRUE,Under development
+Purse seines,Sharks and rays,Gear modification,Excluder panels in nets,Escape panels to allow sharks to exit purse seine pockets.,TRUE,Under research
+Purse seines,Sharks and rays,Gear modification,Ecological Fish Aggregating Devices (eco-FADs),Non-entangling biodegradable FADs to prevent ghost fishing and shark entrapment.,TRUE,Under development
+Purse seines,Sharks and rays,Operational/Setting,Set restrictions near whale sharks,Ban on setting nets around whale sharks or large pelagics.,FALSE,In use
+Purse seines,Sharks and rays,Deterrents – Chemosensory,Chemical attractants or repellents,Use of odour cues to steer sharks away from nets or FADs.,TRUE,Under research
+Gillnets and trammel nets,Marine mammals,Gear modification,Net slackness reduction,Reduce net slack to lower entanglement probability.,FALSE,In use
+Gillnets and trammel nets,Marine mammals,Gear modification,Weak links and breakaway ropes,Allow entangled large mammals to break free safely.,TRUE,Under development
+Gillnets and trammel nets,Marine mammals,Deterrents – Acoustic,Pingers,Emit sounds to alert cetaceans and avoid entanglement.,TRUE,Under research
+Gillnets and trammel nets,Marine mammals,Deterrents – Chemosensory,Chemical repellents,Use of chemical cues to discourage approach.,TRUE,Under research
+Gillnets and trammel nets,Marine mammals,Deterrents – Visual,Warning panels or visual cues,High-visibility mesh panels to alert dolphins or porpoises.,TRUE,Under development
+Gillnets and trammel nets,Seabirds,Deterrents – Acoustic,Pingers or alarms,Emit sound to deter diving seabirds.,TRUE,Under research
+Gillnets and trammel nets,Seabirds,Deterrents – Visual,Illuminated or coloured panels,Light or colour signals to reduce seabird entanglement.,TRUE,Under development
+Gillnets and trammel nets,Seabirds,Operational/Setting,Set depth or time,Deploy nets deeper or at night to reduce bird interactions.,FALSE,In use
+Gillnets and trammel nets,Sharks and rays,Gear modification,Magnetic deterrents,Use of magnets or electropositive metals on nets.,TRUE,Under research
+Gillnets and trammel nets,Sea turtles,Gear modification,LED illumination,Attach green or UV lights to nets to deter turtle entry.,TRUE,Under development
+Gillnets and trammel nets,Sea turtles,Operational/Setting,Depth and duration limits,Adjust net depth and soak time to minimize turtle catch.,FALSE,In use
+Longlines and lines,Marine mammals,Gear modification,Hook type or spacing,Modify hook shape and spacing to prevent dolphin interaction.,FALSE,In use
+Longlines and lines,Marine mammals,Operational/Setting,Hauling speed and timing,Haul gear slowly and avoid hauling with cetaceans nearby.,FALSE,In use
+Longlines and lines,Marine mammals,Deterrents – Acoustic,Pingers or alarms,Emit acoustic signals to keep dolphins and whales away.,TRUE,Under research
+Longlines and lines,Marine mammals,Deterrents – Visual,Masking devices or barriers,Visual deterrents to conceal bait or hooks.,TRUE,Under research
+Longlines and lines,Seabirds,Gear modification,"Weighted branch lines, bait type",Use weighted lines or blue-dyed bait to reduce bird access.,FALSE,In use
+Longlines and lines,Seabirds,Operational/Setting,Side or underwater setting,Deploy lines under water or from vessel side to reduce bycatch.,TRUE,Under development
+Longlines and lines,Seabirds,Deterrents – Visual,"Hookpods, tori lines, bird scarers",Protect bait until submerged or scare birds visually.,TRUE,Under development
+Longlines and lines,Seabirds,Deterrents – Acoustic,Sound devices,Emit sound or light cues to deter seabirds during setting.,TRUE,Under research
+Longlines and lines,Sharks and rays,Gear modification,Hook and bait modification,"Use of circle hooks, metal baits, or non-squid bait to deter sharks.",FALSE,In use
+Longlines and lines,Sharks and rays,Deterrents – Magnetic,Electropositive or magnetic hooks,Magnetized hooks repel sharks via electromagnetic fields.,TRUE,Under research
+Longlines and lines,Sharks and rays,Deterrents – Chemosensory,Chemical repellents,Olfactory deterrents like necromone compounds to deter sharks.,TRUE,Under research
+Longlines and lines,Sharks and rays,Deterrents – Acoustic,Sound deterrents,Emit noise to repel sharks from baited hooks.,TRUE,Under research
+Longlines and lines,Sharks and rays,Operational/Setting,"Hook depth, soak-time",Set hooks deeper and reduce soak-time to lower shark interactions.,FALSE,In use
+Longlines and lines,Sea turtles,Gear modification,Circle hooks and bait substitution,Use larger circle hooks and fish instead of squid bait to reduce hooking.,FALSE,In use
+Longlines and lines,Sea turtles,Deterrents – Visual,Light-emitting or coloured bait,Use LEDs or illuminated lures to deter turtles.,TRUE,Under development
+Pots and traps,Marine mammals,Gear modification,Ropeless gear systems,Use acoustic release buoys instead of ropes to prevent entanglement.,TRUE,Under development
+Pots and traps,Marine mammals,Operational/Setting,Weak links and galvanic time releases,Allow lines to break or corrode over time to prevent whale entanglement.,TRUE,Under development
+Pots and traps,Sharks and rays,Deterrents – Magnetic,Permanent magnets on trap entrances,Reduce shark entry by magnetic field deterrence.,TRUE,Under research
+Trap nets,Marine mammals,Gear modification,Modified entrances or mesh size,Change trap net geometry or mesh to avoid dolphin entry.,TRUE,Under development
+Trap nets,Sea turtles,Gear modification,Escape gaps or panels,Provide escape routes for turtles trapped inside nets.,TRUE,Under development
+Trap nets,Marine mammals,Deterrents – Acoustic,Pingers or alarms,Emit acoustic signals to deter marine mammals near traps.,TRUE,Under research
+Trap nets,Seabirds,Deterrents – Visual,High-visibility markers,Use flags or panels to increase trap visibility to birds.,TRUE,Under research
+Trawls,Sea turtles,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Trawls,Seabirds,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Trawls,Sharks and rays,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Trawls,Marine mammals,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Purse seines,Sea turtles,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Purse seines,Seabirds,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Purse seines,Sharks and rays,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Purse seines,Marine mammals,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Gillnets and trammel nets,Sea turtles,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Gillnets and trammel nets,Seabirds,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Gillnets and trammel nets,Sharks and rays,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Gillnets and trammel nets,Marine mammals,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Longlines and lines,Sea turtles,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Longlines and lines,Seabirds,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Longlines and lines,Sharks and rays,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Longlines and lines,Marine mammals,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Trap nets,Sea turtles,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Trap nets,Seabirds,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Trap nets,Sharks and rays,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Trap nets,Marine mammals,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Pots and traps,Sea turtles,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Pots and traps,Seabirds,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Pots and traps,Sharks and rays,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
+Pots and traps,Marine mammals,Management/Effort,"Temporal, spatial and effort limits",Close or restrict areas/seasons and regulate licenses to reduce bycatch.,FALSE,In use
